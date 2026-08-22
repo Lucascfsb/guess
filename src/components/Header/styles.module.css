@@ -19,7 +19,6 @@
 .container > header button {
   background: transparent;
   border: none;
-  transition: scale 0.5s;
 }
 
 .container > header img:hover {
@@ -40,4 +39,3 @@
   font-size: 1.37rem;
   color: #e8891c;
 }
-

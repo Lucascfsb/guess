@@ -8,10 +8,9 @@ Um jogo de adivinhação de palavras desenvolvido com React + TypeScript e Vite.
   <img src="https://img.shields.io/badge/Vite-8.2.0-646CFF?style=for-the-badge&logo=vite" alt="Vite" />
 </p>
 
-<!-- Dica: Adicione uma captura de tela ou GIF demonstrativo do projeto rodando abaixo -->
-<!-- <p align="center">
-  <img src="./src/assets/preview.gif" alt="Demonstração do Guess" width="100%" />
-</p> -->
+<p align="center">
+  <img width="604" height="923" alt="image" src="https://github.com/user-attachments/assets/72426996-4df5-42eb-8b03-3c864bc7919b" />
+</p>
 
 ## 🧩 Sobre o projeto
 
